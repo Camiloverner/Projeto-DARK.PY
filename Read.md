@@ -14,5 +14,5 @@ Várias conexões de soquete TCP podem ser transmitidas em ambas as direções s
 Um handshake de três vias também é conhecido como handshake TCP ou SYN-SYN-ACK e requer que o cliente e o servidor troquem pacotes SYN (sincronização) 
 e ACK (reconhecimento) antes que a comunicação de dados real comece.
 
-PS: Um conselho para os entusiastas da Ciencia da Computação é utilizar o Wireshark para analizar o tráfego durante o ataque, assim você pode ver as coias acontecendo de fato!
+PS: Um conselho para os entusiastas da Ciencia da Computação é utilizar o Wireshark para analizar o tráfego durante o ataque, assim você pode ver as coisas acontecendo de fato!
 
