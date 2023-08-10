@@ -4,7 +4,7 @@ Olá meu caro Padawan! Que a força esteja com você!
 
 O Projeto DARK.PY é o meu primeiro projeto de ataque DOS com a linguagem Python. No caso utiliza-se a Biblioteca URLlib para o funcionamento do three-way handshake tcp. O Projeto DARK.PY foi escrito exclusivamente para pesquisas educacionais. Nunca execute esse tipo de ataque contra endereços IP que não estejam sob seu controle. Nunca abuse do script para prejudicar ninguém. Você tem sua própria responsabilidade.
 
-O arquivo DARK.py contem o código fonte do Projeto. Já o arquivo DARK_guI.py contem o projeto DARK.PY em GUI.
+O projeto acompanha um arquivo .exe que é o Projeto DARK.PY.
 
 <h3>Oque é three-way handshake?</h3>
 
