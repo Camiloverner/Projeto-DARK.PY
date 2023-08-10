@@ -8,9 +8,8 @@ O arquivo DARK.py contem o código fonte do Projeto. Já o arquivo DARK_guI.py c
 
 <h3>Oque é three-way handshake?</h3>
 
-Várias conexões de soquete TCP podem ser transmitidas em ambas as direções simultaneamente. Um handshake de três vias também é conhecido como handshake TCP ou SYN-SYN-ACK e requer que o cliente e o servidor troquem pacotes SYN (sincronização) e ACK (reconhecimento) antes que a comunicação de dados real comece.
-
-![Imagem handshake](https://secbitrez.files.wordpress.com/2018/08/3-way-handshake.png)
+Várias conexões de soquete TCP podem ser transmitidas em ambas as direções simultaneamente. Um handshake de três vias também é conhecido como handshake TCP ou SYN-SYN-ACK e requer que o cliente e o servidor troquem pacotes SYN (sincronização) e ACK (reconhecimento) antes que a comunicação de dados real comece. 
+Veja mais em (https://gitbook.ganeshicmc.com/redes/three-way-handshake)
 
 
 PS: Um conselho para os entusiastas da Ciencia da Computação é utilizar o Wireshark para analizar o tráfego durante o ataque, assim você pode ver as coisas acontecendo de fato!
